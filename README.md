@@ -39,7 +39,9 @@ This custom collection of invoice tempaltes were designed and tested for **Simpl
  ##Installation & Use
  To install, go to your file directory where your SimpleInvoices is installed. Once there proceed to:
  Templates Folder -> Invoices -> Default. Once there, put the content of the desired template inside 
- of the folder. Make sure to make a backup of the original template if you desire to use the default on in the future.
+ of the folder. Make sure to make a backup of the original template if you desire to use the default on in the future. Once
+ the new template is in place, make sure to go to your SimpleInvoices Settings->System Preferences->Edit Default Invoice Template and
+ to select the newly added template.
  
  ##Warranty and Guarantee
  There are no warranty and guarantees with the use of these templates and are used "as is". 
