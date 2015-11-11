@@ -5,34 +5,34 @@ This custom collection of invoice tempaltes were designed and tested for **Simpl
 ## Template Types
 
  The following templates and details:
- * [X1-FlatB](#B)
- * [X1-FlatC](#C)
- * [X1-FlatG](#G)
- * [X1-FlatP](#P)
- * [X1-FlatT](#T)
- * [X1-FlatZ](#Z)
+ * [X1-FlatB]
+ * [X1-FlatC]
+ * [X1-FlatG]
+ * [X1-FlatP]
+ * [X1-FlatT]
+ * [X1-FlatZ]
  
- # <a name="B'></a> **X1-FlatB Template**
+ # **X1-FlatB Template**
  * [X] Itemised
  * [X] Total
  
- # <a name="C'></a> **X1-FlatC Template**
+ # **X1-FlatC Template**
  * [X] Itemised
  * [X] Total
  
- # <a name="G'></a> **X1-FlatG Template**
+ # **X1-FlatG Template**
  * [X] Itemised
  * [X] Total
  
- # <a name="P'></a> **X1-FlatP Template**
+ # **X1-FlatP Template**
  * [X] Itemised
  * [X] Total
  
- # <a name="T'></a> **X1-FlatT Template**
+ # **X1-FlatT Template**
  * [X] Itemised
  * [X] Total
  
- # <a name="Z'></a> **X1-FlatZ Template**
+ # **X1-FlatZ Template**
  * [X] Itemised
  * [X] Total
  
