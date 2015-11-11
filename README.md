@@ -2,9 +2,7 @@
 
 This custom collection of invoice tempaltes were designed and tested for **Simple Invoices version 2011.1**. All six templates come ready out-of-the-box to be used.
 
-## Template Types
-
- The following templates and details:
+## Template Details
 
  # X1-FlatB Template
  * [X] Itemised
@@ -36,6 +34,13 @@ This custom collection of invoice tempaltes were designed and tested for **Simpl
  of the folder. Make sure to make a backup of the original template if you desire to use the default on in the future. Once
  the new template is in place, make sure to go to your SimpleInvoices Settings->System Preferences->Edit Default Invoice Template and
  to select the newly added template.
+ 
+ ##Donate
+ If you like this work, please donate to help continue creating more awesome features.
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=W2NXRPD43YSCU&amp;lc=TR&amp;item_name=open-source&amp;item_number=markdown-editing&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" /></a>
+
+
+
  
  ##Warranty and Guarantee
  There are no warranty and guarantees with the use of these templates and are used "as is". 
