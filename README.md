@@ -2,31 +2,31 @@
 
 This custom collection of invoice tempaltes were designed and tested for **Simple Invoices version 2011.1**. All six templates come ready out-of-the-box to be used.
 
-## Template Details
+## Template Details.
 
- # X1-FlatB Template
- * [X] Itemised
- * [X] Total
+ **X1-FlatB Template**
+  * [X] Itemised
+  * [X] Total
  
- # X1-FlatC Template
- * [X] Itemised
- * [X] Total
+ **X1-FlatC Template**
+  * [X] Itemised
+  * [X] Total
  
- # X1-FlatG Template
- * [X] Itemised
- * [X] Total
+ **X1-FlatG Template**
+  * [X] Itemised
+  * [X] Total
  
- # X1-FlatP Template
- * [X] Itemised
- * [X] Total
+ **X1-FlatP Template**
+  * [X] Itemised
+  * [X] Total
  
- # X1-FlatT Template
- * [X] Itemised
- * [X] Total
+ **X1-FlatT Template**
+  * [X] Itemised
+  * [X] Total
  
- # X1-FlatZ Template
- * [X] Itemised
- * [X] Total
+ **X1-FlatZ Template
+  * [X] Itemised
+  * [X] Total
  
  ##Installation & Use
  To install, go to your file directory where your SimpleInvoices is installed. Once there proceed to:
