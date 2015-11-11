@@ -4,8 +4,8 @@ This custom collection of invoice tempaltes were designed and tested for **Simpl
 
 ## Template Details.
 **X1-FlatB/C/G/P/T/Z Template**
-*[X] Itemised
-*[X] Total
+  * [X] Itemised
+  * [X] Total
 
  ##Installation & Use
  To install, go to your file directory where your SimpleInvoices is installed. Once there proceed to:
