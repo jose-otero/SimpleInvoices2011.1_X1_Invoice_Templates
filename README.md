@@ -5,13 +5,13 @@ This custom collection of invoice tempaltes were designed and tested for **Simpl
 ## Template Types
 
  The following templates and details:
- * X1-FlatB
- * X1-FlatC
- * X1-FlatG
- * X1-FlatP
- * X1-FlatT
- * X1-FlatZ
- 
+* X1-FlatB
+* X1-FlatC
+* X1-FlatG
+* X1-FlatP
+* X1-FlatT
+* X1-FlatZ
+
  # **X1-FlatB Template**
  * [X] Itemised
  * [X] Total
